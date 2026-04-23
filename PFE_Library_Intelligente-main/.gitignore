@@ -1,0 +1,4 @@
+MyDjango/
+__pycache__/
+*.pyc
+.vscode/
